@@ -40,3 +40,7 @@ Produces a single self-contained HTML file with base64-embedded images, severity
 - `GROQ_API_KEY` environment variable (free tier at console.groq.com)
 - Input: one inspection PDF + one thermal PDF
 - Output: portable HTML report + JSON sidecar
+
+## Sample Output
+
+![Report Screenshot](screenshot.png)
