@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.pdf
+ddr_report.html
+ddr_report.json
